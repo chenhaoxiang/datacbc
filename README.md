@@ -8,7 +8,7 @@ DATACBc区块链BaaS相关核心代码开源项目
 
 # 相关文档地址
 
-- 官网地址：https://datacbc.com/、https://cbcbaas.com/
+- 官网地址：https://datacbc.com/
 - 文档说明地址：https://datacbc.gitbook.io/index/  
 - 核心算法开源地址：https://github.com/chenhaoxiang/datacbc
 
